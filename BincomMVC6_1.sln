@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BincomMVC6_1", "BincomMVC6_1.csproj", "{304644E1-F344-419D-B8D6-2E57A080D47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304644E1-F344-419D-B8D6-2E57A080D47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304644E1-F344-419D-B8D6-2E57A080D47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304644E1-F344-419D-B8D6-2E57A080D47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304644E1-F344-419D-B8D6-2E57A080D47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491CBEEA-13E9-47DB-ABCF-359747C4740A}
+	EndGlobalSection
+EndGlobal
